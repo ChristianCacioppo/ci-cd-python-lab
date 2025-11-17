@@ -8,3 +8,4 @@ A minimal Python package to demonstrate CI/CD with GitHub Actions.
 pip install -r requirements-dev.txt
 pytest
 python -m calc add 2 3
+
